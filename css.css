@@ -634,7 +634,7 @@ span {
     }
   }
   @media (max-width: 991px) {
-    .header {
+    /* .header {
       padding: 2rem 3%;
     }
     .logo{
@@ -654,7 +654,7 @@ span {
     }
     .footer {
       padding: 2rem 3%;
-    }
+    } */
     
 
 
