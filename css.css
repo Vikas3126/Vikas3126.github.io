@@ -633,20 +633,20 @@ span {
 
     }
   }
-  @media (max-width: 991px) {
-    /* .header {
-      padding: 2rem 3%;
+  /*@media (max-width: 991px) {
+    .header {
+       padding: 2rem 3%; 
     }
     .logo{
-      padding-left: 27px;
-    }
+      /* padding-left: 27px;  */
+    /* }
     section {
       padding: 10rem 3% 2rem;
     }
     .skills {
-      padding-bottom: 7rem;
-    }
-    .project {
+       /* padding-bottom: 7rem;  */
+     /* }  */
+    /* .project {
       padding-bottom: 7rem;
     }
     .contact {
@@ -654,12 +654,9 @@ span {
     }
     .footer {
       padding: 2rem 3%;
-    } */
+    }   *
+    /* } */
     
-
-
-
-  }
   @media (max-width: 768px) {
     #menu-icon {
       display: block;
@@ -669,8 +666,8 @@ span {
       top: 100%;
       left: 0;
       width: 100%;
-      /* padding: 20px ; */
-      padding-left:38px ;
+      padding: 2rem 9%;
+      /* border: 1px solid red; */
       background: var(--bg-oxford-blue);
       border-top: .1rem solid rgba(0, 0, 0, .2);
       box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .2);
