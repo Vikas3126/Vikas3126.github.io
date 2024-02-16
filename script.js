@@ -35,7 +35,7 @@ let resume2 = document.getElementById("resume-button-2").addEventListener("click
 
 function NewTab() {
   window.open(
-    "./VikasYadav-Resume.pdf",
+    "./Vikas-Yadav-Resume.pdf",
     "_blank"
   );
 }
